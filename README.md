@@ -25,6 +25,16 @@ Our main objectives are listed as follows:
   2. Deep Protocol Dissection. <br>
   3. Payload & File Extraction <br>
   4. Network troubleshooting. <br>
+  5. Detailed documentation. <br>
+
+  ##📝 Setting up your lab
+  Step 1. Download and install the latest stable version of Wireshark from the official site: https://www.wireshark.org/download.html
+
+  Step 2. Make sure to check the boxes below for improved security and compactability
+
+Step 3. Configure the IPv4 address and subnet
+
+Step 4i. Download the Kali Linux iso image from the official site:
 
 
 
